@@ -1,5 +1,7 @@
 # LSTM GNN Model Integrated with Clinical Code Node Encoding
 
+BERT_model_preparation and Doc2Vec_embedding_preparation are the notebook to create clincial code embedding.
+LSTM_GCN are the main file to run the model. 
 
 ## Developement Dependencies
 
@@ -20,5 +22,6 @@ gensim-4.3.0
 ## Sample Dataset
 
 Health Facts Dataset is crendential data, can't be revealed, so I create a sample dataset in the sample dataset, 
+
 
 
