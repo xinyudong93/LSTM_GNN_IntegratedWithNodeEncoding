@@ -1,7 +1,10 @@
 # LSTM GNN Model Integrated with Clinical Code Node Encoding
 
 BERT_model_preparation and Doc2Vec_embedding_preparation are the notebook to create clincial code embedding.
+
 LSTM_GCN are the main file to run the model. 
+
+You can download the description slides to read about the detailed introduction.
 
 ## Developement Dependencies
 
