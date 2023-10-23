@@ -19,6 +19,6 @@ gensim-4.3.0
 
 ## Sample Dataset
 
-Health Facts Dataset is crendential data, can't be revealed, so I create a sample dataset in the sample 
+Health Facts Dataset is crendential data, can't be revealed, so I create a sample dataset in the sample dataset, 
 
 
